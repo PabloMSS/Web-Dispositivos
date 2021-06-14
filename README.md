@@ -5,4 +5,5 @@ Además, una parte de los Datos de las Tablas han sido obtenidos mediante JavaSc
 
 Por otro lado, la otra parte de las tablas los datos estaban en un fichero xml, que ha sido transformado a xsl y maquetados mediante CSS3 para poder mostrar los datos correctamente y con un estilo aplicado.
 
-
+Acontinuación os muestro el Link para poder acceder a la Web:
+https://web-dispositivos.web.app/recursos_pablom/dispositivos.html
